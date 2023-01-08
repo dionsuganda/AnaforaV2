@@ -4,7 +4,7 @@
       <div class="w-10/12 flex flex-col lg:flex-row items-center space-x-4 xl:space-x-8">
         <div class="w-full flex flex-row items-center justify-between py-4">
           <div>
-            <img :src="require('~/assets/img/anafora/Logo.svg')" class="w-24 xl:w-28" alt="Nefa Logo" />
+            <img :src="require('~/assets/img/anafora/Logo.svg')" class="w-24 xl:w-28 ml-2" alt="Nefa Logo" />
           </div>
           <button class="rounded-lg lg:hidden focus:outline-none focus:shadow-outline" @click="open = !open">
             <SegmentIcon v-if="!open" :size="24" />
@@ -16,7 +16,7 @@
           class="w-full h-auto flex flex-col flex-grow lg:items-center pb-4 lg:pb-0 lg:justify-end lg:flex-row origin-top duration-300 xl:space-x-2 space-y-3 lg:space-y-0"
         >
           <NavLink name="Promo" url="#" />
-          <NavLink name="List Menu" url="#" />
+          <NavLink name="List Menu" url="ListMenu" />
           <NavLink name="Contact" url="#" />
           <NavLink name="About" url="#" />
         </ul>

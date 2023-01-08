@@ -1,5 +1,9 @@
 <template>
   <div class="w-full">
+    <BaseNavbar />
+    <div
+        class="absolute top-0 left-0 w-full h-[125vh] sm:h-[225vh] lg:h-[125vh] bg-[url('~/assets/img/anafora/Background.png')] bg-no-repeat sm:cover-gradient"
+      ></div>
     <!-- Hero section -->
     <section id="hero" class="w-full pb-24">
       <BaseSection>
@@ -33,7 +37,7 @@
         <!-- <div class="flex col-span-12"> -->
           <!-- <LandingBuyTradeImage class="sm:hidden mb-8" /> -->
           <LandingBuyTradeImage data-aos="fade-right" class="sm:block col-span-12 lg:col-span-7" />
-          <div data-aos="fade-left" class="mt-4 xl:mt-96 space-y-6 px-4 col-span-12 lg:col-span-5 bg-[#E8E8CC] lg:-ml-28 h-64 text-center text-2xl drop-shadow-xl">
+          <div data-aos="fade-left" class="h-full lg:h-64 mt-4 xl:mt-96 mb-10 space-y-6 px-4 col-span-12 lg:col-span-5 bg-[#E8E8CC] lg:-ml-28 text-center text-2xl drop-shadow-xl">
             <p class="paragraph mt-10">
               We have a dream to serve quality coffee, made with fresh ingredients to customers all over Indonesia.
             </p>

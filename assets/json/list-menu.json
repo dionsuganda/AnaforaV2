@@ -1,0 +1,493 @@
+{
+    "data" : {
+        "drinks" : [{
+            "type" : "Coffee",
+            "menu" : [{
+                "photoUrl" : "",
+                "name" : "Latte",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Anafora Brown Sugar",
+                "price" : {
+                    "hot" : 20000,
+                    "ice" : 20000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Hazelnut Latte",
+                "price" : {
+                    "hot" : 20000,
+                    "ice" : 20000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Tiramisu Latte",
+                "price" : {
+                    "hot" : 20000,
+                    "ice" : 20000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Americano",
+                "price" : {
+                    "hot" : 16000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Caramel Latte",
+                "price" : {
+                    "hot" : 20000,
+                    "ice" : 20000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Vanilla Latte",
+                "price" : {
+                    "hot" : 20000,
+                    "ice" : 20000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Salted Caramel Latte",
+                "price" : {
+                    "hot" : 20000,
+                    "ice" : 20000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Coffee Beer",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Irish Cream",
+                "price" : {
+                    "hot" : 20000,
+                    "ice" : 20000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "V60 Manual Brew",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Expresso",
+                "price" : {
+                    "hot" : 10000,
+                    "ice" : 10000
+                }
+            }]
+        },
+        {
+            "type" : "Milkshake",
+            "menu" : [{
+                "photoUrl" : "",
+                "name" : "Redvelvet Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Choco Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Taro Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Matcha Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Banana Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Avocado Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Cookies Cream Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Thai Tea Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Caramel Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Vanilla Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Tiramisu Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Dark Choco Milk",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            }]
+        },
+        {
+            "type" : "Mocktail",
+            "menu" : [{
+                "photoUrl" : "",
+                "name" : "Mojito",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Blue Ocean Mojito",
+                "price" : {
+                    "hot" : 18000,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Mojito Lychee",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 20000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Calamansi",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Green Apple",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Manggofora",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Raspberry",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 18000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Lemonade",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 18000
+                }
+            }]
+        },
+        {
+            "type" : "Fresh",
+            "menu" : [{
+                "photoUrl" : "",
+                "name" : "Manggo",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 16000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Apple",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 16000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Orange",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 16000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Bubble Gum",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 16000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Lime Honey",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 16000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Grape",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 16000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Blackcurrant",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 16000
+                }
+            }]
+        },
+        {
+            "type" : "Other",
+            "menu" : [{
+                "photoUrl" : "",
+                "name" : "Tea",
+                "price" : {
+                    "hot" : 5000,
+                    "ice" : 7000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Lychee Tea",
+                "price" : {
+                    "hot" : 10000,
+                    "ice" : 15000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Lemon Tea",
+                "price" : {
+                    "hot" : 10000,
+                    "ice" : 15000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Manggo Yakult",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 15000
+                }
+            }]
+        },
+        {
+            "type" : "Topping",
+            "menu" : [{
+                "photoUrl" : "",
+                "name" : "Ice Cream",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 3000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Oreo",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 3000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Stickfora",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 3000
+                }
+            },{
+                "photoUrl" : "",
+                "name" : "Special",
+                "price" : {
+                    "hot" : 0,
+                    "ice" : 6000
+                }
+            }]
+        }],
+        "food" : [{
+            "type" : "Cemilan",
+            "menu" : [{
+                "photoUrl" : "sempol-bakar.png",
+                "name" : "Sempol Bakar",
+                "price" : 13000
+            },{
+                "photoUrl" : "sempol-bakar.png",
+                "name" : "Mix Variant Bakaran",
+                "price" : 13000
+            },{
+                "photoUrl" : "sempol-bakar.png",
+                "name" : "Bakso Bakar",
+                "price" : 13000
+            },{
+                "photoUrl" : "sempol-bakar.png",
+                "name" : "Seafood Bakar",
+                "price" : 13000
+            },{
+                "photoUrl" : "",
+                "name" : "Kentang",
+                "price" : 13000
+            },{
+                "photoUrl" : "",
+                "name" : "Kentang Paket 1",
+                "price" : 13000
+            },{
+                "photoUrl" : "",
+                "name" : "Kentang Paket 2",
+                "price" : 15000
+            }]
+        },
+        {
+            "type" : "Noodles",
+            "menu" : [{
+                "photoUrl" : "",
+                "name" : "Seblak",
+                "price" : 13000
+            },{
+                "photoUrl" : "",
+                "name" : "Indomie Polos",
+                "price" : 7000
+            },{
+                "photoUrl" : "",
+                "name" : "Indomie Double",
+                "price" : 12000
+            },{
+                "photoUrl" : "",
+                "name" : "Indomie Telur",
+                "price" : 12000
+            },{
+                "photoUrl" : "",
+                "name" : "Indomie Seafood",
+                "price" : 12000
+            },{
+                "photoUrl" : "",
+                "name" : "Indomie Sosis",
+                "price" : 10000
+            },{
+                "photoUrl" : "",
+                "name" : "Indomie Bakso",
+                "price" : 12000
+            },{
+                "photoUrl" : "",
+                "name" : "Indomie Special",
+                "price" : 14000
+            },{
+                "photoUrl" : "",
+                "name" : "Indomie Double Special",
+                "price" : 16000
+            }]
+        },
+        {
+            "type" : "Meat Balls",
+            "menu" : [{
+                "photoUrl" : "",
+                "name" : "Small Bakso Aci",
+                "price" : 7000
+            },{
+                "photoUrl" : "",
+                "name" : "Bakso Aci Sederhana",
+                "price" : 8000
+            },{
+                "photoUrl" : "",
+                "name" : "Bakso Aci Biasa",
+                "price" : 12000
+            },{
+                "photoUrl" : "",
+                "name" : "Bakso Aci Special",
+                "price" : 15000
+            },{
+                "photoUrl" : "",
+                "name" : "Bakso Urat",
+                "price" : 13000
+            }]
+        },
+        {
+            "type" : "Toast",
+            "menu" : [{
+                "photoUrl" : "",
+                "name" : "Roti Bakar Strawberry",
+                "price" : 7000
+            },{
+                "photoUrl" : "",
+                "name" : "Roti Bakar Blueberry",
+                "price" : 7000
+            },{
+                "photoUrl" : "",
+                "name" : "Roti Bakar Nanas",
+                "price" : 7000
+            },{
+                "photoUrl" : "",
+                "name" : "Roti Bakar Keju",
+                "price" : 7000
+            },{
+                "photoUrl" : "",
+                "name" : "Roti Bakar Coklat",
+                "price" : 7000
+            },{
+                "photoUrl" : "",
+                "name" : "Roti Bakar Coklat Keju",
+                "price" : 7000
+            },{
+                "photoUrl" : "",
+                "name" : "Roti Bakar Pisang Coklat",
+                "price" : 7000
+            },{
+                "photoUrl" : "",
+                "name" : "Roti Bakar Pisang Keju",
+                "price" : 7000
+            },{
+                "photoUrl" : "",
+                "name" : "Roti Bakar Pisang Special",
+                "price" : 7000
+            }]
+        }]
+    }
+}
